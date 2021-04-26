@@ -3,7 +3,7 @@
 
 
 According to the paper by Gunther Leobacher,
-*Fast orthogonal transforms and generation of Brownian paths*
+*Fast orthogonal transforms and generation of Brownian paths*,
 Journal of Complexity, Volume 28, Issue 2, April 2012, Pages 278-302,
 [https://doi.org/10.1016/j.jco.2011.11.003 ] 
 alternatives to principal component analysis and 
