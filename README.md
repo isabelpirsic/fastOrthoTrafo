@@ -24,5 +24,7 @@ Versions used:
 * Python  : 3.9.4
 * SciPy   : 1.6.2
 * NumPy   : 1.20.1
+
 For the example files:
 * matplotlib : 3.4.1
+
