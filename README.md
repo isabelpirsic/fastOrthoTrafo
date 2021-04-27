@@ -2,7 +2,7 @@
 ## python code for fast orthogonal transforms for pricing derivatives with quasi-Monte Carlo
 
 
-According to the paper by Gunther Leobacher,
+Following the paper by Gunther Leobacher,
 *Fast orthogonal transforms and generation of Brownian paths*,
 Journal of Complexity, Volume 28, Issue 2, April 2012, Pages 278-302,
 [https://doi.org/10.1016/j.jco.2011.11.003 ] 
@@ -27,4 +27,7 @@ Versions used:
 
 For the example files:
 * matplotlib : 3.4.1
+
+This work was supported by the Austrian Science Fund (FWF), Project F5508-N26,
+which is a part of the Special Research Program „Quasi-Monte Carlo Methods: Theory and Applications“
 
